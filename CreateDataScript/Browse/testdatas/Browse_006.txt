@@ -1,0 +1,6 @@
+#用例006：URL匹配上过滤库
+47456039872@#$2@#$cmwap@#$@#$@#$183.61.49.180@#$80@#$0@#$http://infoapp.3g.qq.com/*icfa=auto_@#$Dalvik/1.6.0 (Linux; U; Android 4.2.1; HUAWEI G700-U00 Build/HuaweiG700-U00)@#$image/jpeg@#$@#$JAVA@#$157@#$51109@#$2015-04-14 12:25:48.290@#$2015-04-14 12:25:52.750@#$
+56494838251@#$2@#$cmwap@#$@#$@#$110.75.70.29@#$80@#$1@#$http://infoapp.3g.qq.com/*aid=astro_@#$Mozilla/5.0 (Linux; U; Android 4.1.2; zh-CN; LT26ii Build/6.2.B.1.96) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 UCBrowse@#$x-json@#$@#$WWW@#$7042@#$61013@#$2015-05-28 18:19:41.221@#$2015-05-28 18:19:43.901@#$
+41105025583@#$6@#$cmnet@#$@#$@#$14.18.245.167@#$80@#$0@#$http://qzonestyle.gtimg.cn/@#$Mozilla/5.0 (Linux; U; Android 4.4.2; zh-cn; SM-N9006 Build/KOT49H) AppleWebKit/534.24 (KHTML, like Gecko) Version/4.0 Mobile Sa@#$image/gif@#$@#$WWW@#$3355@#$26033@#$2015-05-12 22:09:35.441@#$2015-05-12 22:09:37.541@#$
+41274708643@#$6@#$cmnet@#$@#$@#$115.168.254.1@#$53@#$1@#$http://api.coolmart.net.cn/@#$TMA/4.2.0@#$image/webp@#$@#$JAVA@#$458@#$28212@#$2015-05-09 00:18:48.353@#$2015-05-09 00:18:51.816@#$
+47456039872@#$3@#$cmwap@#$@#$@#$183.61.46.199@#$80@#$0@#$http://ms.www.iciba.com/@#$Dalvik/1.6.0 (Linux; U; Android 4.4.2; LG-D958 Build/KOT49I.D95820a)@#$text/javascript@#$@#$JAVA@#$7343@#$56727@#$2015-05-21 06:49:25.66@#$2015-05-21 06:49:29.603@#$

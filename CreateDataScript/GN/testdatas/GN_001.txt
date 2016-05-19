@@ -1,0 +1,11 @@
+#用例001：统计时间片为空
+,41082492094,cmnet,http://3g.21cn.com/finance,6911,2450,7,9073,842364
+,47318835802,cmwap,http://world.newssc.org/,7512,4333,9,2003,366949
+,47461037257,cmnet,http://paipai.meitu.com/,7923,3996,7,168,656947
+,41490553276,cmwap,http://www.mobeehome.com/,1885,1609,3,3800,484507
+,41404015288,cmwap,http://news.zjol.com.cn/,3420,750,8,5614,768777
+,41507613250,cmnet,http://bbs.trends.com.cn/,2897,7734,7,5028,787092
+,40332123034,cmwap,http://www.fimmu.com/,1269,4691,6,1271,779294
+,41128985500,cmnet,http://0532qc.com/,3707,9176,6,4398,445452
+,40293694501,cmnet,http://www.fa.org.cn/zj/,6357,3581,2,1995,575824
+,40881305104,cmnet,http://www.dxwx.com.cn/,2361,2148,9,5490,328148
